@@ -1,5 +1,5 @@
-# Mint-X-Dark_icons
-Icons for  [Mint-X-Dark theme](https://github.com/anandAbhi/Mint-X-Dark).
+# Mint-Y-Dark_icons
+Icons for  [Mint-Y-Dark theme](https://github.com/anandAbhi/Mint-Y-Dark-Teal).
 
 Icons created by inverting the original **Mint-X** icons.
 
